@@ -265,27 +265,6 @@ npm install
 
 ---
 
-## Usage
-
-> Update this once you have concrete scripts/commands.
-
-- **Run the development server**
-
-  ```bash
-  # Example – replace with your actual dev command
-  npm run dev
-  ```
-
-- **Run the API/Backend only**
-
-  ```bash
-  # Example – replace with your actual backend command
-  npm run start:api
-  ```
-
-- Navigate to `http://localhost:3000` (or your configured port) to access the SentriAI dashboard.
-
----
 
 ## Data & Privacy
 
@@ -335,25 +314,6 @@ Contributions are welcome!
 5. Open a Pull Request with a clear description of your changes
 
 Please ensure your code follows any existing style guides and includes relevant tests.
-
----
-
-## Team
-
-Core project team:
-
-- Ruth Igwe-Oruta  
-- Maureen Cheptoo  
-- Olatunji Abdulraheem  
-- Idara Akpan  
-- Akpakpa Rukevwe Mary  
-- Asheson Enneh  
-- Eno Peters  
-- Vivian Ibeawuchi  
-- Nissi Marshall  
-- Precious Babalola Umar Oghenerukevwe  
-
-(If this is an open-source repo, you can also add maintainers and contributors here.)
 
 ---
 
