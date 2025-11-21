@@ -70,9 +70,9 @@ SentriAI addresses this by:
 
 ### Key Performance Indicators (KPIs)
 
-- **Dropout rate reduction (%)**
-- **Prediction accuracy (%)** (e.g., precision/recall on at-risk classification)
-- **Intervention effectiveness (%)** (e.g., % at-risk students who stay enrolled after intervention)
+- **Dropout rate reduction**
+- **Prediction accuracy**
+- **Intervention effectiveness**
 
 ---
 
@@ -95,7 +95,7 @@ SentriAI addresses this by:
 
 **Pain Points:**
 
-- Limited time for 1:1 student follow-up  
+- Limited time for 1:1 student follow up  
 - Hard to spot at-risk students before it’s “too late”  
 - Little or no data-driven insight to guide interventions
 
@@ -113,7 +113,7 @@ The MVP focuses on the essential pieces needed for early dropout prediction and 
 
 2. **Predictive Modeling**
    - Machine learning model to estimate dropout risk per student
-   - Configurable thresholds for what counts as “at-risk”
+   - Configurable thresholds for what counts as “at risk”
 
 3. **Dashboard**
    - List and search of students with current risk scores
